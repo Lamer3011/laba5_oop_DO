@@ -1,0 +1,9 @@
+c:\users\sergiy\documents\visual studio 2013\Projects\laba5_oop\laba5_oop\bin\Debug\laba5_oop.exe.config
+c:\users\sergiy\documents\visual studio 2013\Projects\laba5_oop\laba5_oop\obj\Debug\laba5_oop.csprojResolveAssemblyReference.cache
+c:\users\sergiy\documents\visual studio 2013\Projects\laba5_oop\laba5_oop\obj\Debug\laba5_oop.Form1.resources
+c:\users\sergiy\documents\visual studio 2013\Projects\laba5_oop\laba5_oop\obj\Debug\laba5_oop.Properties.Resources.resources
+c:\users\sergiy\documents\visual studio 2013\Projects\laba5_oop\laba5_oop\obj\Debug\laba5_oop.csproj.GenerateResource.Cache
+c:\users\sergiy\documents\visual studio 2013\Projects\laba5_oop\laba5_oop\bin\Debug\laba5_oop.exe
+c:\users\sergiy\documents\visual studio 2013\Projects\laba5_oop\laba5_oop\bin\Debug\laba5_oop.pdb
+c:\users\sergiy\documents\visual studio 2013\Projects\laba5_oop\laba5_oop\obj\Debug\laba5_oop.exe
+c:\users\sergiy\documents\visual studio 2013\Projects\laba5_oop\laba5_oop\obj\Debug\laba5_oop.pdb
